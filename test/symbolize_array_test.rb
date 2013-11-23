@@ -1,6 +1,6 @@
 gem 'minitest'
 require 'minitest/autorun'
-require_relative '../lib/array'
+require_relative '../lib/symbolize_array'
 
 class ArrayTest < Minitest::Test
   def setup
