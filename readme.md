@@ -2,7 +2,7 @@
 
 ## Installation
 
-    gem install 'symbolize-array'
+    gem install 'symbolize_array'
 
 ## Usage
 
